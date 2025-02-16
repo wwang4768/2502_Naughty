@@ -1,0 +1,9 @@
+# Ignore other sensitive files
+.env
+*.env
+secrets.json
+credentials.json
+
+# Ignore virtual environments
+venv/
+.venv/
